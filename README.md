@@ -1,2 +1,2 @@
-# SunPDF---Pdf-To-Image-Converter
+# SunPDF-Pdf-To-Image-Converter
 I made this because I needed it at my office, and maybe you need it too, you can try it...
